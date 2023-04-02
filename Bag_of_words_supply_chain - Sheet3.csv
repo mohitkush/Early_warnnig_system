@@ -1,0 +1,203 @@
+Supply Chain,Commodities,Client Specific Words,Automobile Indursty,Suppliers,War/ Calamities words
+a items,titanium nitride,tcs,machine,Fuyao,Natural disasters
+abc analysis,steel,tata consultancy services,machinery ,Vitesco,volcano
+abc classification,aluminium,ratan tata,motor,Valeo Interior,tornado
+active inventory,copper,jrd tata,motors,Fibrax,avalanche
+advanced shipping notice (asn),platinium,,tyres,Hyundai,earthquake
+aggregate inventory management,neon,,barings,Golde,blizzard
+al requirements planning (mrp i),titanium,,steeing,Borgwarner,magma
+all-time order,iron,,rubber,Schadder,twister
+all-time requirement,zinc,,paint,Spirol,windstorm
+all-time stock,fiber,,cars,Marquardt,heat wave
+allocated stock,glass,,engine,Amphenol,cyclone
+anticipation stock,,,shafts,Punch Powertrain,forest fire
+availability,,,nuts,Valeo Siemens,flood
+available stock,,,bolts,,Calamities
+available to promise (atp),,,wheel,,hailstorm
+b items,,,vehicle,,lava
+backflu,,,car,,lightning
+backhaul,,,semi-conductor,,war
+backorder a,,,semi conductor,,hail
+bar code,,,steel,,hurricane
+batch number,,,neon,,seismic
+benchmarking,,,plastic,,whirlpool
+beyond economic repair (ber),,,alloy,,Richter scale
+bill of material,,,ECU,,whirlwind
+buffer stock,,,gasoline,,Beaufort scale
+build stock,,,diesel,,thunderstorm
+build to order,,,petrol,,barometer
+c items,,,aluminium,,gale
+category,,,steel coil,,blackout
+category management,,,cold rolled coil steel,,gust
+central distribution centre,,,CRC steel,,disaster
+co-managed inventory,,,Taiwan,,snowstorm
+component,,,HVAC,,rainstorm
+component part,,,wiring harness,,storm
+composite delivery,,,LED,,nimbus
+composite distribution centre,,,DRL,,violent storm
+consignment stock,,,Day Time Running Lights,,sandstorm
+consolidation,,,rubber,,cumulonimbus
+consolidation centres,,,oil,,Pandamic
+consumable,,,petrolium,,
+cost to serve,,,iron,,
+cross docking,,,emission,,
+de-coupling stock,,,sheet metal,,
+deduct point,,,reinforced steel,,
+demand driven supply chains,,,ultra high strength hot forming steel,,
+demand forecast,,,high strength steel,,
+demand satisfaction rate,,,copper,,
+denomination of quantity,,,magnesium,,
+dependent demand,,,composites,,
+deterministic inventory control models,,,lead,,
+direct store delivery,,,engine,,
+distribution requirement planning drpi,,,chessis,,
+distribution resource planning drpii,,,TFT,,
+dsd,,,tyre,,
+economic order interval (eoi),,,fuel,,
+economic order quantity (eoq),,,greenhouse,,
+economic stock,,,electric vehicle,,
+effective stock,,,EV,,
+efficient consumer response (ecr),,,hydrogen fuel cell,,
+eighty-twenty rule,,,leather,,
+electronic commerce (e commerce),,,piston,,
+electronic data interchange (edi),,,cylinder,,
+enterprise requirement planning (erp),,,,,
+european article numbering (ean),,,,,
+excess stock,,,,,
+expression of interest (eoi),,,,,
+factory gate pricing,,,,,
+family group,,,,,
+fill rate,,,,,
+finished goods,,,,,
+finished goods stock,,,,,
+first pick ratio,,,,,
+"first-in, first-out (fifo)",,,,,
+in process goods,,,,,
+inactive inventory,,,,,
+inco terms,,,,,
+independent demand,,,,,
+"integrated business planning,",,,,,
+intermediate product,,,,,
+intermediate stock,,,,,
+inventory,,,,,
+inventory control,,,,,
+inventory modeling,,,,,
+inventory policy,,,,,
+inventory process,,,,,
+inventory records,,,,,
+inventory shrinkage,,,,,
+inventory usage,,,,,
+issue list,,,,,
+issue tickets,,,,,
+issues based supply chain development,,,,,
+issuing documents,,,,,
+item,,,,,
+item number,,,,,
+just-in-time jit,,,,,
+location checking,,,,,
+logistics,,,,,
+lost sales,,,,,
+lot number,,,,,
+make to order,,,,,
+make to stock,,,,,
+manufacturing resource planning (mrp ii),,,,,
+materi,,,,,
+materials management,,,,,
+matrix bar code,,,,,
+maximum order,,,,,
+maximum stock,,,,,
+minimum order,,,,,
+minimum stock,,,,,
+obsolescent stock,,,,,
+obsolete stock,,,,,
+off shoring,,,,,
+off the shelf satisfaction,,,,,
+on-hand balance,,,,,
+opening stock,,,,,
+order lead time,,,,,
+order picking,,,,,
+order point inventory system,,,,,
+outsourcing,,,,,
+parent part,,,,,
+pareto principle,,,,,
+part number,,,,,
+periodic inventory,,,,,
+perpetual inventory system,,,,,
+pick face,,,,,
+picking list,,,,,
+pipeline stocks,,,,,
+primary freight (strategy),,,,,
+primary transport,,,,,
+probabilistic (or stochastic) inventory control,,,,,
+product group,,,,,
+production lead time,,,,,
+proof of delivery (pod),,,,,
+pull system,,,,,
+purchase price,,,,,
+purchasing lead time (plt),,,,,
+purchasing price,,,,,
+push system,,,,,
+put away rules,,,,,
+quarantine stock,,,,,
+radio frequency identification (rfid),,,,,
+random sample cycle counting,,,,,
+rapid acquisition of manufactured parts (ramp),,,,,
+raw material,,,,,
+re-order level (rol) (or re-order point – rop),,,,,
+"re-order quantity, replenishment order quantity",,,,,
+redundant stock,,,,,
+regional distribution centre (rdc),,,,,
+reorder costs,,,,,
+repair period (rp),,,,,
+repair turn round time (rtrt),,,,,
+repairable item,,,,,
+repairable period (rp),,,,,
+replenish to demand,,,,,
+replenishment lead-time,,,,,
+retail buying alignment,,,,,
+reverse logistics,,,,,
+review interval,,,,,
+rotable,,,,,
+rounding order quantity,,,,,
+routing,,,,,
+safety stock,,,,,
+sales forecast,,,,,
+sample stability,,,,,
+seasonal stock,,,,,
+secondary transport,,,,,
+selective inventory control,,,,,
+service differentiation,,,,,
+shelf-ready packaging,,,,,
+shing,,,,,
+slotting,,,,,
+stock rotation,,,,,
+stock site,,,,,
+stock turn,,,,,
+stock turnover (or stock turn),,,,,
+stock types,,,,,
+stock valuation,,,,,
+stocktaking,,,,,
+strategic stock,,,,,
+"supply chain sustainability,",,,,,
+supply-chain,,,,,
+supply-chain management (scm),,,,,
+time to serve,,,,,
+total acquisition cost (taq),,,,,
+total lead-time,,,,,
+traceability,,,,,
+transaction,,,,,
+transit time,,,,,
+turn around time (tat),,,,,
+two dimensional bar code (2d bar code),,,,,
+unit,,,,,
+unit cost,,,,,
+unit of measure,,,,,
+vendor hub,,,,,
+vendor managed inventory (vmi),,,,,
+wiggle factor,,,,,
+work in progress stock,,,,,
+work in progress wip,,,,,
+working stock,,,,,
+x12,,,,,
+yard management system,,,,,
+zero inventories,,,,,
